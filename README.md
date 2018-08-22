@@ -12,6 +12,7 @@
  + Hash
  + Sort & Search
  + Nomography
+ 
 + Linux
  + Daily Use of Linux
   + Emacs
