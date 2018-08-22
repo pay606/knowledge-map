@@ -2,7 +2,7 @@
 
 ## Technology
 + Data Structure & Algorithm 
- + Queue
+  + Queue
  + Linked List
  + Array
  + Stack
