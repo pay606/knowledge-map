@@ -7,6 +7,7 @@
   + Array
   + Stack
   + Tree
+    + Radix Tree
   + Map
   + Adjacency List
   + Hash
@@ -56,10 +57,17 @@
 + Others (Specific Technology or Tools)
 ## Management
 + Self-Management
-  + Time Management
+  + PSP
 + Team Management
   + Technology Management
     + Agile
++ Marketing
+  + STP (Segmentation, Targeting, Positioning)
+  + 3C (Company, Customer, Competitor)
+  + 4P (Product, Price, Place, Promotion)
+    + 研发判断机会（STP），产品经理+销售（4P）
+  + FCB栅极（理性，感性，高关注，低关注四维度）：交换机为高关注理性产品。-》STP/4P饱和
+  + 周哈里窗（用户己知，用户不己知，公司己知，公司不己知）（研发参与调研：C类用户己知，公司不己知）
 + Quality
   + MANIFESTO
 ## Health
