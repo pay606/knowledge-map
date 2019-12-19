@@ -47,6 +47,7 @@
     + SOLID principles by Robert C. Martin
     + Design Patterns By GoF
   + UML
+
 + OS
   + Process Management
   + Memory Management
@@ -61,6 +62,17 @@
 + Team Management
   + Technology Management
     + Agile
++ Product
+  + Trends Analysis
+    + IDC, Gartner.
+    + User Sampling.
+    + Vendors' latest solutions.
+  + Compitetors Analysis
+    + Product, Price, Solution (Scoring Table).
+    + SWOT
+  + Application Scenario Analysis
+    + Reviewing whole process of real scenarios.
+    + Youtube: Vedors' Demo.
 + Marketing
   + STP (Segmentation, Targeting, Positioning)
   + 3C (Company, Customer, Competitor)
